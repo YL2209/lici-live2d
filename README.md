@@ -19,6 +19,8 @@ git clone https://github.com/YL2209/luci-live2d.git package/lean/live2d
 git clone https://github.com/YL2209/luci-app-live2d.git package/lean/luci-app-live2d
 ```
 
+---------------------------------------------------------------------------------
+
 ### 在线版
 ```bash
 Fork本项目，并将/files/live2d-widget目录下：
