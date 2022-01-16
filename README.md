@@ -4,6 +4,7 @@
 
 ## 参考
 [Live2D Widget](https://github.com/stevenjoezhang/live2d-widget)
+
 [Live2D API](https://github.com/fghrsh/live2d_api)
 
 ## 使用
