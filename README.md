@@ -1,4 +1,4 @@
-# luci-live2d
+# luci-live2d  Openwrt添加看板娘
 
 ## 使用前请确保你的设备拥有足够的空间
 
