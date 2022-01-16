@@ -9,10 +9,11 @@
 ## 使用
 
 ### 本地版
+
+#### Lean lede
 ```Live2D Widget
 git clone https://github.com/YL2209/luci-live2d.git package/lean/live2d
 ```
-
 ```Live2D API
 git clone https://github.com/YL2209/luci-app-live2d.git package/lean/luci-app-live2d
 ```
