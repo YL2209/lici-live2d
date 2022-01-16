@@ -23,5 +23,8 @@ git clone https://github.com/YL2209/luci-app-live2d.git package/lean/luci-app-li
 Fork本项目，并将/files/live2d-widget目录下：
 /live2d/autoload.js  修改为  https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js
 ```
-
+#### Lean lede
+```Live2D Widget
+git clone https://github.com/YL2209/luci-live2d.git package/lean/live2d
+```
 
