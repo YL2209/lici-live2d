@@ -31,4 +31,7 @@ Fork本项目，并将/files/live2d-widget目录下：
 git clone https://github.com/YL2209/luci-live2d.git package/lean/live2d
 ```
 
+-------------------------------------------------------
+
+## 效果预览
 ![](live2d.PNG)
