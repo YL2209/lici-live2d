@@ -1,10 +1,6 @@
 #!/bin/sh
 
 echo "" >> /usr/lib/lua/luci/view/footer.htm
-echo "" >> /usr/lib/lua/luci/view/footer.htm
-echo '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">' >> /usr/lib/lua/luci/view/footer.htm
-echo '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome-animation@0.2.1/dist/font-awesome-animation.min.css">' >> /usr/lib/lua/luci/view/footer.htm
-echo '<script src="/live2d/autoload.js"></script>' >> /usr/lib/lua/luci/view/footer.htm
-
+echo '<script src="//cdn.jsdelivr.net/gh/YL2209/live2d-widget-mini@latest/autoload.js"></script>' >> /usr/lib/lua/luci/view/footer.htm
 
 exit 0
