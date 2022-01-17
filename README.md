@@ -12,25 +12,29 @@
 ### 本地版
 
 #### Lean lede
-```Live2D Widget
+#####Live2D Widget
+```bash
 git clone https://github.com/YL2209/luci-live2d.git package/lean/live2d
 ```
-```Live2D API
+#####Live2D API
+```bash
 git clone https://github.com/YL2209/luci-app-live2d.git package/lean/luci-app-live2d
 ```
 
 ---------------------------------------------------------------------------------
 
-### 在线版
-```bash
-Fork本项目，并将/files/live2d-widget目录下：
-/live2d/autoload.js  修改为  https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js
-```
+### 在线mini版
 #### Lean lede
-```Live2D Widget
-git clone https://github.com/YL2209/luci-live2d.git package/lean/live2d
+```bash
+git clone -b mini https://github.com/YL2209/luci-live2d.git package/lean/live2d
 ```
-
+或
+```bash
+cd lede/package/lean  
+git clone -b mini https://github.com/YL2209/luci-live2d.git
+make menuconfig #choose LUCI->live2d
+make -j1 V=s  
+```
 -------------------------------------------------------
 
 ## 效果预览
