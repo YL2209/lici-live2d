@@ -1,6 +1,6 @@
 # luci-live2d  Openwrt添加看板娘
 
-## 使用前请确保你的设备拥有足够的空间
+## 使用-本地版-前请确保你的设备拥有足够的空间
 
 ## 参考
 [Live2D Widget](https://github.com/stevenjoezhang/live2d-widget)
