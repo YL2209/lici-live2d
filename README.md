@@ -34,4 +34,4 @@ git clone https://github.com/YL2209/luci-live2d.git package/lean/live2d
 -------------------------------------------------------
 
 ## 效果预览
-![](live2d.PNG)
+![](https://cdn.jsdelivr.net/gh/YL2209/luci-live2d/live2d.PNG)
