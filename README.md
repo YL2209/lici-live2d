@@ -12,11 +12,11 @@
 ### 本地版
 
 #### Lean lede
-####Live2D Widget
+Live2D Widget
 ```bash
 git clone https://github.com/YL2209/luci-live2d.git package/lean/live2d
 ```
-####Live2D API
+Live2D API
 ```bash
 git clone https://github.com/YL2209/luci-app-live2d.git package/lean/luci-app-live2d
 ```
